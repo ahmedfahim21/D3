@@ -1,0 +1,69 @@
+{
+    "data": {
+      "id": "Super Parent"
+    },
+    "children": [
+      {
+        "data": {
+          "id": "Parent1"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "Child1"
+            }
+          },
+          {
+            "data": {
+              "id": "Child2"
+            }
+          },
+          {
+            "data": {
+              "id": "Child3"
+            }
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "Parent2"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "Child1"
+            }
+          },
+          {
+            "data": {
+              "id": "Child2"
+            }
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "Parent3"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "Child1"
+            }
+          },
+          {
+            "data": {
+              "id": "Child2"
+            }
+          },
+          {
+            "data": {
+              "id": "Child3"
+            }
+          }
+        ]
+      }
+    ]
+  }
+          
